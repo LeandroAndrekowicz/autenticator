@@ -1,4 +1,4 @@
-package com.example.autenticator.pages
+package com.nexkey.auth.pages
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Box
@@ -26,8 +26,8 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.autenticator.components.CameraScanner
-import com.example.autenticator.R
+import com.nexkey.auth.components.CameraScanner
+import com.nexkey.auth.R
 
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.setValue

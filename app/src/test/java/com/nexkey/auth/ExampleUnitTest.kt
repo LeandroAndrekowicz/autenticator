@@ -1,4 +1,4 @@
-package com.example.autenticator
+package com.nexkey.auth
 
 import org.junit.Test
 

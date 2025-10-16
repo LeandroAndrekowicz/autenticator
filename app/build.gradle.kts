@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.autenticator"
+    namespace = "com.nexkey.auth"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.autenticator"
+        applicationId = "com.nexkey.auth"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

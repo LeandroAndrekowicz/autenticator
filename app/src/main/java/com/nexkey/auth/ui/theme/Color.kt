@@ -1,4 +1,4 @@
-package com.example.autenticator.ui.theme
+package com.nexkey.auth.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package com.example.autenticator
+package com.nexkey.auth
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -17,9 +17,9 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.example.autenticator.pages.HomePage
-import com.example.autenticator.ui.theme.AutenticatorTheme
-import com.example.autenticator.ui.theme.backgroundColor
+import com.nexkey.auth.pages.HomePage
+import com.nexkey.auth.ui.theme.AutenticatorTheme
+import com.nexkey.auth.ui.theme.backgroundColor
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

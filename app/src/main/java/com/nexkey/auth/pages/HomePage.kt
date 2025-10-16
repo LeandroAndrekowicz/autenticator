@@ -1,4 +1,4 @@
-package com.example.autenticator.pages
+package com.nexkey.auth.pages
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.clickable
@@ -15,8 +15,8 @@ import androidx.activity.result.contract.ActivityResultContracts
 import androidx.compose.ui.platform.LocalContext
 import android.widget.Toast
 
-import com.example.autenticator.components.AuthCodeCard
-import com.example.autenticator.R
+import com.nexkey.auth.components.AuthCodeCard
+import com.nexkey.auth.R
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember

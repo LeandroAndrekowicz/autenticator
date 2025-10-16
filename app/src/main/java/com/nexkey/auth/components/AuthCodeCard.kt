@@ -1,4 +1,4 @@
-package com.example.autenticator.components
+package com.nexkey.auth.components
 
 import android.content.ClipData
 import android.content.ClipboardManager
@@ -24,7 +24,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.compose.foundation.layout.*
 import androidx.compose.ui.platform.LocalContext
-import com.example.autenticator.R
+import com.nexkey.auth.R
 
 
 fun copyToClipboard(context: Context, text: String) {
